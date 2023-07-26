@@ -1,0 +1,28 @@
+26 jul 2023 - 10:48:25 [INFO ] - Starting SchedulerTaskApplication using Java 1.8.0_362 on AyH with PID 8898 (/home/andynano/Documentos/Scheduler/target/classes started by andynano in /home/andynano/Documentos/Scheduler)
+26 jul 2023 - 10:48:25 [DEBUG] - Running with Spring Boot v2.6.2, Spring v5.3.14
+26 jul 2023 - 10:48:25 [INFO ] - No active profile set, falling back to default profiles: default
+26 jul 2023 - 10:48:29 [INFO ] - Started SchedulerTaskApplication in 6.701 seconds (JVM running for 10.526)
+26 jul 2023 - 10:51:37 [INFO ] - Starting SchedulerTaskApplication using Java 1.8.0_362 on AyH with PID 9869 (/home/andynano/Documentos/Scheduler/target/classes started by andynano in /home/andynano/Documentos/Scheduler)
+26 jul 2023 - 10:51:37 [DEBUG] - Running with Spring Boot v2.6.2, Spring v5.3.14
+26 jul 2023 - 10:51:37 [INFO ] - No active profile set, falling back to default profiles: default
+26 jul 2023 - 10:51:41 [INFO ] - Started SchedulerTaskApplication in 9.049 seconds (JVM running for 12.873)
+26 jul 2023 - 10:53:40 [INFO ] - Starting SchedulerTaskApplication using Java 1.8.0_362 on AyH with PID 10596 (/home/andynano/Documentos/Scheduler/target/classes started by andynano in /home/andynano/Documentos/Scheduler)
+26 jul 2023 - 10:53:40 [DEBUG] - Running with Spring Boot v2.6.2, Spring v5.3.14
+26 jul 2023 - 10:53:40 [INFO ] - No active profile set, falling back to default profiles: default
+26 jul 2023 - 10:53:44 [INFO ] - Started SchedulerTaskApplication in 8.564 seconds (JVM running for 12.764)
+26 jul 2023 - 12:17:26 [INFO ] - Starting SchedulerTaskApplication using Java 1.8.0_362 on AyH with PID 2887 (/home/andynano/Documentos/Scheduler/target/classes started by andynano in /home/andynano/Documentos/Scheduler)
+26 jul 2023 - 12:17:26 [DEBUG] - Running with Spring Boot v2.6.2, Spring v5.3.14
+26 jul 2023 - 12:17:26 [INFO ] - No active profile set, falling back to default profiles: default
+26 jul 2023 - 12:17:33 [INFO ] - Started SchedulerTaskApplication in 14.832 seconds (JVM running for 22.239)
+26 jul 2023 - 12:22:06 [INFO ] - Starting SchedulerTaskApplication using Java 1.8.0_362 on AyH with PID 4358 (/home/andynano/Documentos/Scheduler/target/classes started by andynano in /home/andynano/Documentos/Scheduler)
+26 jul 2023 - 12:22:06 [DEBUG] - Running with Spring Boot v2.6.2, Spring v5.3.14
+26 jul 2023 - 12:22:06 [INFO ] - No active profile set, falling back to default profiles: default
+26 jul 2023 - 12:22:08 [INFO ] - Started SchedulerTaskApplication in 4.479 seconds (JVM running for 7.691)
+26 jul 2023 - 12:22:48 [INFO ] - Starting SchedulerTaskApplication using Java 1.8.0_362 on AyH with PID 4644 (/home/andynano/Documentos/Scheduler/target/classes started by andynano in /home/andynano/Documentos/Scheduler)
+26 jul 2023 - 12:22:48 [DEBUG] - Running with Spring Boot v2.6.2, Spring v5.3.14
+26 jul 2023 - 12:22:48 [INFO ] - No active profile set, falling back to default profiles: default
+26 jul 2023 - 12:22:49 [INFO ] - Started SchedulerTaskApplication in 3.898 seconds (JVM running for 5.717)
+26 jul 2023 - 14:23:20 [INFO ] - Starting SchedulerTaskApplication using Java 1.8.0_362 on AyH with PID 3306 (/home/andynano/Documentos/Scheduler/target/classes started by andynano in /home/andynano/Documentos/Scheduler)
+26 jul 2023 - 14:23:20 [DEBUG] - Running with Spring Boot v2.6.2, Spring v5.3.14
+26 jul 2023 - 14:23:20 [INFO ] - No active profile set, falling back to default profiles: default
+26 jul 2023 - 14:23:24 [INFO ] - Started SchedulerTaskApplication in 9.842 seconds (JVM running for 18.455)
